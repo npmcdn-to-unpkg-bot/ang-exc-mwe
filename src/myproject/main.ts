@@ -3,7 +3,7 @@
 
 import { bootstrap } from '@angular/platform-browser-dynamic';
 
-// import { AppComponent } from 'myproject/components/app.component'; // Works
-import { AppComponent } from 'myproject/components'; // Doesn't work
+import { AppComponent } from 'myproject/components/app.component'; // Works
+// import { AppComponent } from 'myproject/components'; // Doesn't work
 
 bootstrap(AppComponent);
