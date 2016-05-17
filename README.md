@@ -8,7 +8,7 @@ This MWE provokes this exception:
 
 It was uploaded for this StackOverflow question:
 
-    http://stackoverflow.com/questions/37274201/exception-in-main-ts-when-importing-components-via-an-index-ts-file
+http://stackoverflow.com/questions/37274201/exception-in-main-ts-when-importing-components-via-an-index-ts-file
 
 ## Fixes
 
